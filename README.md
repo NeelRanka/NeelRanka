@@ -34,7 +34,7 @@ With a passion for both development and defensive programming, I specialize in d
 
 ## 🚀 Projects & Interesting Experiences
 
-### [Crazy Extra Portfolio Stories](https://notes.hv-tech.org/share/hjrnum28ml/p/crazy-extra-stories-external-UrGDE1YhRr)
+### [Interesting Extra Portfolio Stories](https://notes.hv-tech.org/share/hjrnum28ml/p/interesting-extra-stories-external-UrGDE1YhRr)
 DW, it's hosted on my own domain and self-hosted web-server (But never click on random links 😉)
 
 ---
